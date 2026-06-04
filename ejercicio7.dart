@@ -1,3 +1,4 @@
+//dado una lista de 5 numeros realizar una funcion en darto que devuelva  el promedio
 double calcularpromedio(List<double> numeros){
   double suma=0;
   for(double n in numeros){

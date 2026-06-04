@@ -1,4 +1,4 @@
-
+//dada una lista de n numeros determinar la cantidad de numeros primos y sumar sus digitos
 void main() {
   List<int> numeros = [7, 10, 13, 8, 5];
   int Primos = 0;

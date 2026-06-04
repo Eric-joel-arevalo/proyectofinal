@@ -1,3 +1,4 @@
+//dado un numero x determinar si es primo. es primo determinar la cantidad de divisores de cada digito
 void main() {
   int x = 113;
   int divisoresX = 0;

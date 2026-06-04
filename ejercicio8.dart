@@ -1,3 +1,4 @@
+//dada una lista de 10 nombres crear una funcion que devuelva la cantidad de vocales y consonantes
 String detectorVyC(List<String> nombres) {
   int vocales = 0;
   int consonantes = 0;

@@ -1,3 +1,4 @@
+//dada una lista de 8 elementos devolver la cantidad de num primos
 void main() {
   List<dynamic> numeros = [3, 7.5, 'H', 6, 7, 'CAJAL', 31.2, 43];
   mostrarPrimos(numeros);

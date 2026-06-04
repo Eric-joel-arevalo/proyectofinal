@@ -1,3 +1,4 @@
+//dado un numero x determinar si es magico
 void main() {
   int x = 123;
   int sumDigitos = 0;
